@@ -12,3 +12,9 @@
 		weekdays
   
 		weekend
+
+switch off after xxxx minutes
+
+or
+
+switch off at time hh:mm
