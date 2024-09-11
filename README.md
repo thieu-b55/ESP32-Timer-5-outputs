@@ -2,7 +2,8 @@
 
 5 outputs
 
-7 possible programs per output
+7 possible timers per output
+
 	switch on:
  
 		chosen day
